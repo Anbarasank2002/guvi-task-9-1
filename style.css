@@ -1,0 +1,36 @@
+#bbg {
+  background-color: #b0c0bc;
+}
+
+#nav-bar {
+  position: relative;
+  top: 12cm;
+}
+
+#description {
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#t-body {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.page-item {
+  border-radius: 20px;
+  background-color: rgb(142, 95, 186);
+}
+.page-link {
+  border-radius: 20px;
+}
+
+#bg {
+  background-color: rgb(99, 148, 194);
+}
+#table-data {
+  background-color: blueviolet;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
